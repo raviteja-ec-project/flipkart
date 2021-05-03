@@ -6,7 +6,7 @@
 #version         :1.0    
 #usage		     :
 
-echo "Comments example"
+echo "Comments example for both single and multiline"
 
 #echo "This line is commented"
 
