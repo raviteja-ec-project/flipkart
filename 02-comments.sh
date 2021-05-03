@@ -17,4 +17,4 @@ echo "This line aslo in Multi line comment section, it will be ignore"
 
 COMMENT
 
-echo "This is after Multiline comments section"
+echo "This is after Multiline comments section only"
