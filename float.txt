@@ -5,3 +5,4 @@ c=1.999999999999
 echo("values of a is:" $a)
 echo("values of b is:" $b)
 echo("values of c is:" $c)
+echo $a 
