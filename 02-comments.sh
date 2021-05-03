@@ -18,3 +18,6 @@ echo "This line aslo in Multi line comment section, it will be ignore"
 COMMENT
 
 echo "This is after Multiline comments section only"
+#
+echo "added one more sinle line comment above"
+
