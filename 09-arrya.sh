@@ -28,4 +28,4 @@ echo ${devopstools[*]}
 
 echo ${devopstools[@]}
 
-echo ${}
+echo "displaying all values"
