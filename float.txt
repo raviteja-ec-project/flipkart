@@ -6,4 +6,4 @@ echo("values of a is:" $a)
 echo("values of b is:" $b)
 echo("values of c is:" $c)
 echo "addition of a+b:" `expr $a + $b`
-
+echo "add a+b" `expr $a + $b`
