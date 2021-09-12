@@ -1,7 +1,7 @@
 /bin/bash
 a=4.567
 b=2.1111111111
-c=1.999999999999
+c=1.99999999999
 echo("values of a is:" $a)
 echo("values of b is:" $b)
 echo("values of c is:" $c)
